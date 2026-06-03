@@ -1,1 +1,1 @@
-{"buildCommand":"cd frontend && npm install && npm run build","outputDirectory":"frontend/dist","env":{"VITE_API_URL":"@vite-api-url"},"envPrefix":"VITE_","regions":["iad1"]}
+{\n  \"buildCommand\": \"cd frontend && npm install && npm run build\",\n  \"outputDirectory\": \"frontend/dist\",\n  \"installCommand\": \"cd frontend && npm install\",\n  \"env\": {\n    \"VITE_API_URL\": \"https://foodlens-api.railway.app\"\n  }\n}\n
